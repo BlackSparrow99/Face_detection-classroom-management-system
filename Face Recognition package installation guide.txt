@@ -1,3 +1,13 @@
+There is a backup setup for all the dependencies in this project
+open a terminal in the directory where environment.yml is located
+and executed this line of command
+	conda env create -f environment.yml
+	conda activate OpenCV_fr__env
+
+
+if this is not possible try this section
+
+
 Follow this procedures step by step;
 
 install python by downloading latest version
