@@ -1,0 +1,5 @@
+.flake8
+.pylintrc
+Data_set/Extra
+Data_set/Face_recognition/
+labelimg/

@@ -1,0 +1,20 @@
+Data_set collection:
+	The data for human faces are stored in project [directory >> Data_set >> Face_recognition] directory.
+
+
+
+The naming convention must be followed for every image:
+	The head part must contain the persons name for that image.
+	The name must be separated by underscore( "_" ).
+	The part until it finds first underscore is considered as the persons name.
+	Example:
+		If an image having this name "20220921_083543743.PORTRAIT_copy.jpg".
+		Then add the name of the person for that image separating by "_".
+		Like this, "Mahadi_20220921_083543743.PORTRAIT_copy.jpg".
+		This indicate this is the image for Mahadi.
+	Spaces doesn't matter you can put spaces for name
+	Example:
+		Mahadi Hassan_20220921_083543743.PORTRAIT_copy.jpg
+		This indicate this is the image for Mahadi Hassan.
+		
+	
