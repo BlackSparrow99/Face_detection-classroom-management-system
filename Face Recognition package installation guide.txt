@@ -1,0 +1,16 @@
+Follow this procedures step by step;
+
+install python by downloading latest version
+install conda by downloading latest anaconda
+	conda create -n py311_env python=3.11
+	conda activate py311_env
+	pip install cmake
+download and install visual studio latest version(not visual studio code)
+	in visual studio setting install cMake
+	conda activate py311_env
+	pip install dlib==19.24.1
+	pip install face-recognition
+	pip install numpy 
+	pip install opencv-python
+	conda install -c conda-forge dlib
+	pip install keyboard

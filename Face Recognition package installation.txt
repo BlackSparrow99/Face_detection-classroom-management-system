@@ -1,8 +1,0 @@
-conda create -n py311_env python=3.11
-conda activate py311_env
-pip install cmake
-pip install dlib==19.24.1
-pip install face-recognition
-pip install numpy 
-pip install opencv-python
-conda install -c conda-forge dlib
