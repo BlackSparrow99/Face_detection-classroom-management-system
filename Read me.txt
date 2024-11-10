@@ -1,3 +1,6 @@
+There is setup guid for this project located inside "Face Recognition package installation guide.txt" file
+	Follow setup guid step by step, then proceed to this next faze.
+
 Data_set collection:
 	The data for human faces are stored in project [directory >> Data_set >> Face_recognition] directory.
 
@@ -17,4 +20,7 @@ The naming convention must be followed for every image:
 		Mahadi Hassan_20220921_083543743.PORTRAIT_copy.jpg
 		This indicate this is the image for Mahadi Hassan.
 		
-	
+To run this code:
+	open terminal in this directory and run
+	conda activate py311_env
+	python OpenCV_face_recognition.py

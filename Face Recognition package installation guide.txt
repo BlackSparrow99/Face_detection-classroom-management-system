@@ -1,11 +1,15 @@
-There is a backup setup for all the dependencies in this project
-open a terminal in the directory where environment.yml is located
-and executed this line of command
-	conda env create -f environment.yml
-	conda activate OpenCV_fr__env
+There is a backup environment setup for all the dependencies in this project:
+install python by downloading latest version
+install conda by downloading latest anaconda
+install visual studio latest version(not visual studio code)
+	in visual studio setting install cMake
+	open a terminal in the directory where environment.yml is located
+	executed this line of command:
+		conda env create -f environment.yml
+		conda activate OpenCV_fr__env
 
 
-if this is not possible try this section
+if that is not possible try this section
 
 
 Follow this procedures step by step;
