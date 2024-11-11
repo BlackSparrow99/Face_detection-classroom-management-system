@@ -19,7 +19,7 @@ install conda by downloading latest anaconda
 	conda create -n py311_env python=3.11
 	conda activate py311_env
 download and install visual studio latest version(not visual studio code)
-	in visual studio setting install cMake
+	in visual studio setting install basic c\c++ build tool
 	pip install cmake
 	conda activate py311_env
 	pip install dlib==19.24.1
